@@ -12,7 +12,7 @@ if (value < 0) {
 if (value === 0) {
 	console.log("Value equals 0");
 } else if (isNaN(value)){
-	console.log("Not 0")
+	console.log("Not 0");
 } else {
 	console.log("Value is under 0");
 }
